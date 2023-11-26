@@ -22,3 +22,6 @@ A dynamic Flask-based web application for managing personal stock portfolios, fe
 1. Clone the repository:
    ```bash
    git clone https://github.com/lawrenceemenike/your-finance_app.git
+
+# License
+**MIT**
